@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jasrajabov
+- 👋 Hi, I’m Jas
 - 👀 I’m interested in Python Software Development, Software Testing Automation (BDD & TDD), Rest APIs / Backend Development with Python.
 - 💞️ I’m looking to collaborate on Software Development with Python, creating Python testing automation frameworks
 - 📫 How to reach me: **jas.rajabov@gmail.com**
